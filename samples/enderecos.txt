@@ -1,0 +1,17 @@
+Alameda
+Anel Viário
+Autoestrada
+Avenida
+Beco
+Boulevard
+Complexo Viário
+Enseada
+Esplanada
+Estação
+Estrada
+Largo
+Ramal
+Rodovia
+Rua
+Travessa
+Viela

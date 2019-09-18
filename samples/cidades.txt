@@ -1,0 +1,1681 @@
+Airdrie
+Brooks
+Calgary
+Camrose
+Chestermere
+Cold Lake
+Edmonton
+Fort Saskatchewan
+Grande Prairie
+Lacombe
+Leduc
+Lethbridge
+Lloydminster
+Medicine Hat
+Red Deer
+Spruce Grove
+St. Albert
+Wetaskiwin
+Abbotsford
+Armstrong
+Burnaby
+Campbell River
+Castlegar
+Chilliwack
+Colwood
+Coquitlam
+Courtenay
+Cranbrook
+Dawson Creek
+Delta
+Duncan
+Enderby
+Fernie
+Fort St. John
+Grand Forks
+Greenwood
+Kamloops
+Kelowna
+Kimberley
+Langford
+Langley
+Maple Ridge
+Merritt
+Nanaimo
+Nelson
+New Westminster
+North Vancouver
+Parksville
+Penticton
+Pitt Meadows
+Port Alberni
+Port Coquitlam
+Port Moody
+Powell River
+Prince George
+Prince Rupert
+Quesnel
+Revelstoke
+Richmond
+Rossland
+Salmon Arm
+Surrey
+Terrace
+Trail
+Vancouver
+Vernon
+Victoria
+West Kelowna
+White Rock
+Williams Lake
+Brandon
+Dauphin
+Flin Flon
+Morden
+Portage la Prairie
+Selkirk
+Steinbach
+Thompson
+Winkler
+Winnipeg
+Bathurst
+Campbellton
+Dieppe
+Edmundston
+Fredericton
+Miramichi
+Moncton
+Saint John
+Corner Brook
+Mount Pearl
+St. John's
+Yellowknife
+Andong
+Ansan
+Anyang
+Bonghwa
+Boryeong
+Bucheon
+Buyeo
+Busan
+Changwon
+Cheonan
+Cheongju
+Cheorwon
+Chuncheon
+Chungju
+ChunLaBuk
+Daegu
+Daejeon
+Dongducheon
+Donghae
+Gangjin
+Gangneung
+Geumsan
+Gimhae
+Gochang
+Gongju
+Goyang
+Gumi
+Guri
+Gwacheon
+Gwangju
+Gwangmyeong
+Gwangyang
+Gyeongju
+Gyeongsan
+Hadong
+Haenam
+Hapcheon
+Hongcheon
+Hwasun
+Icheon
+Iksan
+Incheon
+Jeju
+Jeongeup
+Jeonju
+Jinhae
+Jinju
+Miryang
+Mokpo
+Muju
+Mungyeong
+Naju
+Namyangju
+Namwon
+Nonsan
+Osan
+Paju
+Pocheon
+Pohang
+PyeongChang
+Sacheon
+Samcheok
+Seogwipo
+Seongnam
+Seosan
+Seul
+Sokcho
+Sunchang
+Suncheon
+Suwon
+Taebaek
+Tongyeong
+Uijeongbu
+Ulsan
+Wonju
+Yanggu
+Yangyang
+Yeoju
+Yongin
+Yeongwol
+Yeosu
+Aach
+Aachen
+Aalen
+Abenberg
+Abensberg
+Achern
+Achim
+Adelsheim
+Adenau
+Adorf
+Ahaus
+Ahlen
+Ahrensburg
+Aichach
+Aichtal
+Albstadt
+Aldenhoven
+Alfeld
+Alfter
+Allendorf
+Allstedt
+Alken
+Alpirsbach
+Alsdorf
+Alsfeld
+Alsleben
+Altdorf
+Altena
+Altenau
+Altenberg
+Altenburg
+Altenkirchen
+Altensteig
+Altentreptow
+Altlandsberg
+Altötting
+Alzenau
+Alzey
+Amberg
+Amöneburg
+Amorbach
+Andernach
+Angermünde
+Anklam
+Annaberg-Buchholz
+Annaburg
+Annweiler am Trifels
+Ansbach
+Apolda
+Arendsee
+Arneburg
+Arnis
+Arnsberg
+Arnstadt
+Arnstein
+Artern
+Arzberg
+Aschaffenburg
+Ascheberg
+Aschersleben
+Asperg
+Aßlar
+Attendorn
+Aub
+Aue
+Auerbach in der Oberpfalz
+Auerbach
+Augsburgo
+Aulendorf
+Auma
+Aurich
+Baden-Baden
+Bad-Salzuflen
+Bamberg
+Berlim
+Bielefeld
+Bingen am Rhein
+Bochum
+Bonn
+Bottrop
+Bremen
+Coblença
+Coburgo
+Cochem
+Colônia
+Dessau-Roßlau
+Dinkelsbühl
+Dortmund
+Dresden
+Duisburg
+Dusseldorf
+Eberbach
+Ebersbach
+Eberswalde
+Eckernförde
+Edewecht
+Eggenstein-Leopoldshafen
+Ehingen
+Eilenburg
+Einbeck
+Eisenach
+Eisenhüttenstadt
+Eisleben
+Eislingen
+Eitorf
+Ellwangen
+Elmshorn
+Elsdorf
+Eltville
+Emden
+Emmendingen
+Emmerich
+Emsdetten
+Engelskirchen
+Enger
+Ennepetal
+Ennigerloh
+Eppelborn
+Eppingen
+Erding
+Erftstadt
+Erfurt
+Erkelenz
+Erkrath
+Erlangen
+Erwitte
+Eschborn
+Eschwege
+Eschweiler
+Espelkamp
+Essen
+Esslingen
+Ettlingen
+Euskirchen
+Eutin
+Falkensee
+Fellbach
+Filderstadt
+Finnentrop
+Finsterwalde
+Flensburg
+Flörsheim
+Forchheim
+Forst
+Frammersbach
+Frankenberg
+Frankenthal
+Frankfurt
+Frechen
+Freiberg
+Freiburg
+Freigericht
+Freilassing
+Frisinga
+Freital
+Freudenberg
+Freudenstadt
+Friedberg
+Friedberg
+Friedrichsdorf
+Friedrichshafen
+Friesoythe
+Fritzlar
+Fröndenberg
+Fulda
+Fussen
+Fürstenfeldbruck
+Fürstenwalde
+Fürth
+Gaggena
+Ganderkesee
+Garbsen
+Garching
+Garmisch-Partenkirchen
+Gauting
+Geesthacht
+Gehrden
+Geilenkirchen
+Geislingen
+Geldern
+Gelnhausen
+Gelsenkirchen
+Georgsmarienhütte
+Gera
+Geretsried
+Gerlingen
+Germering
+Germersheim
+Gersthofen
+Gescher
+Geseke
+Gevelsberg
+Giengen
+Gießen
+Gifhorn
+Gilching
+Ginsheim-Gustavsburg
+Gladbeck
+Glauchau
+Glinde
+Goch
+Gota
+Göppingen
+Görlitz
+Goslar
+Göttingen
+Grefrath
+Greifswald
+Greiz
+Greven
+Grevenbroich
+Griesheim
+Grimma
+Gröbenzell
+Gronau
+Großenhain
+Groß-Gerau
+Großostheim
+Groß-Umstadt
+Guben
+Gummersbach
+Günzburg
+Gunzenhausen
+Güstrow
+Güters
+Haan
+Haar
+Hagen
+Haiger
+Hainburg
+Halberstadt
+Haldensleben
+Halle an der Saale
+Halle
+Halstenbek
+Haltern
+Halver
+Hamburgo
+Hamelin
+Hamm
+Hamminkeln
+Hanau
+Hannoversch Münden
+Hanôver
+Haren
+Harsewinkel
+Haßloch
+Hattersheim
+Hattingen
+Hechingen
+Heide
+Heidelberg
+Heidenau
+Heidenheim
+Heilbad Heiligenstadt
+Heilbronn
+Heiligenhaus
+Heinsberg
+Helmstedt
+Hemer
+Hemmingen
+Hennef
+Hennigsdorf
+Henstedt-Ulzburg
+Heppenheim
+Herborn
+Herdecke
+Herford
+Herne
+Herrenberg
+Herten
+Herzberg am Harz
+Herzebrock-Clarholz
+Herzogenaurach
+Herzogenrath
+Hessisch Oldendorf
+Hettstedt
+Heusenstamm
+Heusweiler
+Hiddenhausen
+Hilchenbach
+Hilden
+Hildesheim
+Hille
+Hochheim
+Hockenheim
+Hof
+Hofgeismar
+Hofheim
+Hohen Neuendorf
+Hohenstein-Ernstthal
+Holzkirchen
+Holzminden
+Holzwickede
+Homberg
+Homburg
+Hoppegarten
+Horb
+Horn-Bad Meinberg
+Hörstel
+Hövelhof
+Höxter
+Hoyerswerda
+Hückelhoven
+Hückeswagen
+Hude
+Hünfeld
+Hürth
+Husum
+Ibbenbüren
+Idar-Oberstein
+Idstein
+Illertissen
+Illingen
+Ilmenau
+Ingelheim
+Ingolstadt
+Iserlohn
+Isernhagen
+Itzehoe
+Jena
+Jüchen
+Jülich
+Kaarst
+Kaiserslautern
+Kalletal
+Kaltenkirchen
+Kamen
+Kamenz
+Kamp-Lintfort
+Karben
+Karlsbad
+Karlsfeld
+Karlsruhe
+Karlstadt
+Kassel
+Kaufbeuren
+Kehl
+Kelheim
+Kelkheim
+Kempen
+Kempten
+Kernen
+Kerpen
+Kevelaer
+Kiel
+Kierspe
+Kirchhain
+Kirchheim
+Kirchlengern
+Kitzingen
+Kleinmachnow
+Koblenz
+Kolbermoor
+Königsbrunn
+Königslutter
+Königstein
+Königswinter
+Königs Wusterhausen
+Konstanz
+Konz
+Korbach
+Korntal-Münchingen
+Kornwestheim
+Korschenbroich
+Köthen
+Kraichtal
+Krefeld
+Kreuzau
+Kreuztal
+Kronach
+Kronberg
+Kulmbach
+Künzell
+Künzelsau
+Kürten
+Laatzen
+Lage
+Lahnstein
+Lahr
+Lampertheim
+Landau
+Landsberg
+Landshut
+Langen
+Langen
+Langenfeld
+Langenhagen
+Langwedel
+Lauchhammer
+Lauda-Königshofen
+Lauf an der Pegnitz
+Laupheim
+Lebach
+Leer
+Lehrte
+Leichlingen
+Leimen
+Leinfelden-Echterdingen
+Leipzig
+Lemgo
+Lengerich
+Lennestadt
+Leonberg
+Leopoldshöhe
+Leutkirch
+Leverkusen
+Lichtenfels
+Lilienthal
+Limbach-Oberfrohna
+Limburg an der Lahn
+Lindau
+Lindlar
+Lingen
+Lippstadt
+Löbau
+Lohmar
+Löhne
+Lohne
+Lohr
+Lörrach
+Losheim
+Loxstedt
+Lübbecke
+Lübbenau
+Lübeck
+Luckenwalde
+Lüdenscheid
+Lüdinghausen
+Ludwigsburg
+Ludwigsfelde
+Ludwigshafen
+Lüneburg
+Lünen
+Magdeburg
+Maintal
+Mogúncia
+Mannheim
+Marbach
+Marburgo
+Markkleeberg
+Marktoberdorf
+Marktredwitz
+Marl
+Marsberg
+Mayen
+Mechernich
+Meckenheim
+Meerane
+Meerbusch
+Meinerzhagen
+Meiningen
+Meißen
+Melle
+Memmingen
+Menden
+Meppen
+Merseburg
+Merzig
+Meschede
+Mettmann
+Metzingen
+Michelstadt
+Minden
+Mittweida
+Moers
+Mölln
+Mönchengladbach
+Monheim
+Moormerland
+Moosburg
+Mörfelden-Walldorf
+Mosbach
+Mössingen
+Much
+Mühlacker
+Mühldorf
+Mühlhausen
+Mühlheim
+Mülheim
+Müllheim
+Munique
+Münster
+Nagold
+Nauen
+Naumburg
+Neckarsulm
+Netphen
+Nettetal
+Neu-Anspach
+Neubrandenburg
+Neuburg
+Neuenhagen
+Neufahrn
+Neu-Isenburg
+Neukirchen-Vluyn
+Neumarkt
+Neumünster
+Neunkirchen
+Neunkirchen-Seelscheid
+Neuruppin
+Neusäß
+Neuss
+Neustadt
+Neustadt an der Aisch
+Neustadt an der Weinstrasse
+Neustrelitz
+Neu-Ulm
+Neuwied
+Neu Wulmstorf
+Nidda
+Nidderau
+Niederkassel
+Niederkrüchten
+Nienburg
+Norden
+Nordenham
+Norderstedt
+Nordhausen
+Nordhorn
+Nördlingen
+Northeim
+Nottuln
+Nümbrecht
+Nuremberg
+Nürtingen
+Oberasbach
+Oberhausen
+Oberkirch
+Ober-Ramstadt
+Obertshausen
+Oberursel
+Ochtrup
+Odenthal
+Oelde
+Oer-Erkenschwick
+Oerlinghausen
+Offenbach
+Offenburg
+Öhringen
+Olching
+Oldenburg
+Olpe
+Olsberg
+Oranienburg
+Oschatz
+Oschersleben
+Osnabrück
+Osterholz-Scharmbeck
+Osterode
+Ostfildern
+Ottobrunn
+Ottweiler
+Overath
+Oyten
+Paderborn
+Panketal
+Papenburg
+Parchim
+Partenstein
+Passau
+Peine
+Penzberg
+Pepelow
+Petershagen
+Pfaffenhofen
+Pfinztal
+Pforzheim
+Pfullingen
+Pfungstadt
+Pinneberg
+Pirmasens
+Pirna
+Plauen
+Plettenberg
+Pohlheim
+Porta Westfalica
+Potsdam
+Preetz
+Prenzlau
+Puchheim
+Pulheim
+Püttlingen
+Quakenbrück
+Quedlimburgo
+Querfurt
+Quickborn
+Radeberg
+Radebeul
+Radevormwald
+Radolfzell
+Rahden
+Rastatt
+Rastede
+Ratekau
+Rathenow
+Ratingen
+Ratisbona
+Ravensburg
+Recklinghausen
+Rees
+Regenstauf
+Rehlingen-Siersburg
+Reichenbach
+Reichshof
+Reinbek
+Reinheim
+Remagen
+Remscheid
+Remseck
+Rendsburg
+Renningen
+Reutlingen
+Rhauderfehn
+Rheda-Wiedenbrück
+Rhede
+Rheinbach
+Rheinberg
+Rheine
+Rheinfelden
+Rheinstetten
+Ribnitz-Damgarten
+Riedstadt
+Riegelsberg
+Riesa
+Rietberg
+Rinteln
+Rödermark
+Rodgau
+Ronnenberg
+Rosenheim
+Rösrath
+Rostock
+Rotenburg
+Roth
+Rotemburgo
+Rottweil
+Rüdersdorf
+Rudolstadt
+Rüsselsheim
+Saalfeld
+Saarbrücken
+Saarlouis
+Sachsenheim
+Salzgitter
+Salzkotten
+Salzwedel
+Sangerhausen
+Sankt Augustin
+Sankt Ingbert
+Sankt Wendel
+Sarstedt
+Schenefeld
+Schifferstadt
+Schiffweiler
+Schkeuditz
+Schleswig
+Schloß Holte-Stukenbrock
+Schlüchtern
+Schmalkalden
+Schmallenberg
+Schmelz
+Schneeberg
+Schneverdingen
+Schönebeck
+Schopfheim
+Schorndorf
+Schortens
+Schramberg
+Schrobenhausen
+Schwabach
+Schwäbisch Gmünd
+Schwäbisch Hall
+Schwalbach
+Schwalmstadt
+Schwalmtal
+Schwandorf
+Schwanewede
+Schwarzenbach
+Schwarzenbek
+Schwarzenberg
+Schwedt
+Schweinfurt
+Schwelm
+Schwerin
+Schwerte
+Schwetzingen
+Seeheim-Jugenheim
+Seelze
+Seesen
+Seevetal
+Sehnde
+Selb
+Seligenstadt
+Selm
+Senden
+Senden
+Senftenberg
+Siegburg
+Siegen
+Sigmaringen
+Simmerath
+Sindelfingen
+Singen
+Sinsheim
+Sinzig
+Soest
+Solingen
+Soltau
+Sömmerda
+Sondershausen
+Sonneberg
+Sonthofen
+Spenge
+Spires
+Spremberg
+Springe
+Sprockhövel
+Stade
+Stadtallendorf
+Stadtbergen
+Stadthagen
+Stadtlohn
+Starnberg
+Staßfurt
+Stein
+Steinfurt
+Steinhagen
+Stendal
+Stockach
+Stockelsdorf
+Stolberg
+Straelen
+Stralsund
+Straubing
+Strausberg
+Stuhr
+Stutensee
+Stuttgart
+Südbrookmerland
+Suhl
+Sulzbach
+Sulzbach-Rosenberg
+Sundern
+Swisttal
+Syke
+Taufkirchen
+Taunusstein
+Telgte
+Teltow
+Templin
+Tettnang
+Titisee-Neustadt
+Tönisvorst
+Torgau
+Traunreut
+Traunstein
+Tréveris
+Troisdorf
+Trossingen
+Tübingen
+Tuttlingen
+Übach-Palenberg
+Überlingen
+Uelzen
+Uetersen
+Uetze
+Ulm
+Unna
+Unterhaching
+Unterschleißheim
+Uslar
+Vaihingen
+Varel
+Vaterstetten
+Vechelde
+Vechta
+Velbert
+Vellmar
+Verden
+Verl
+Versmold
+Viernheim
+Viersen
+Villingen-Schwenningen
+Vilshofen
+Vlotho
+Voerde
+Völklingen
+Vreden
+Wachtberg
+Wadern
+Wadgassen
+Waghäusel
+Waiblingen
+Waldbröl
+Waldkirch
+Waldkraiburg
+Waldkirch
+Walldorf
+Wallenhorst
+Walsrode
+Waltrop
+Wandlitz
+Wangen
+Warburg
+Wardenburg
+Waren
+Warendorf
+Warstein
+Wassenberg
+Wedel
+Wedemark
+Weener
+Wegberg
+Wegeleben
+Weiden
+Weil
+Weil der Stadt
+Weilerswist
+Weilheim
+Weimar
+Weingarten
+Weinheim
+Weinstadt
+Weißenburg
+Weißenfels
+Weißwasser
+Weiterstadt
+Wendelstein
+Wenden
+Wendlingen
+Wentorf
+Werdau
+Werder
+Werdohl
+Werl
+Wermelskirchen
+Werne
+Wernigerode
+Wertheim
+Wesel
+Wesseling
+Westerstede
+Westoverledingen
+Wetter
+Wetzlar
+Weyhe
+Wiefelstede
+Wiehl
+Wiesbaden
+Wiesloch
+Wildeshausen
+Wilhelmshaven
+Willich
+Wilnsdorf
+Windeck
+Winnenden
+Winsen
+Wipperfürth
+Wismar
+Witten
+Wittenberg
+Wittenberge
+Wittlich
+Wittmund
+Wittstock
+Witzenhausen
+Wolfen
+Wolfenbüttel
+Wolfratshausen
+Wolfsburg
+Wolgast
+Worms
+Wörth
+Wülfrath
+Wunstorf
+Wuppertal
+Würselen
+Würzburg
+Wurzen
+Xanten
+Zeitz
+Zerbst
+Zirndorf
+Zittau
+Zossen
+Zülpich
+Zweibrücken
+Zwickau
+Anniston
+Auburn
+Bessemerbile
+Montgomery
+Phenix City
+Alabama
+Troy
+Tuscaloosa
+Tuskegee
+Anchorage
+Barrow
+Fairbanks
+Homer
+Juneau
+Ketchikan
+Nome
+Seward
+Sitka
+Valdez
+Chandler
+Flagstaff
+Gilbert
+Glendale
+Marana
+Mesa
+Nogales
+Oro Valley
+Peoria
+Phoenix
+Prescott
+Sahuarita
+Scottsdale
+Sierra Vista
+Tempe
+Tucson
+Yuma
+Bentonville
+Fayetteville
+Fort Smith
+Hope
+Hot Springs
+Jonesboro
+Little Rock
+North Little Rock
+Pine Bluff
+Springdale
+Texarkana
+West Memphis
+Alameda
+Alhambra
+Anaheim
+Apple Valley
+Bakersfield
+Berkeley
+Beverly Hills
+Cerritos
+Chico
+Chino
+Chino Hills
+Citrus Heights
+Corona
+Cypress
+Daly City
+Diamond Bar
+Downey
+Escondido
+Eureka
+Fairfield
+Fremont
+Fresno
+Fullerton
+Garden Grove
+Glendale
+Half Moon Bay
+Huntington Beach
+Huntington Park
+Irvine
+Lakewood
+Lancaster
+Lodi
+Long Beach
+Los Angeles
+Malibu
+Merced
+Modesto
+Monterey
+Moreno Valley
+Moraga
+Newport Beach
+Norwalk
+Oakland
+Ontario
+Orange
+Oxnard
+Palmdale
+Palm Springs
+Palo Alto
+Paramount
+Pasadena
+Pomona
+Rancho Cordova
+Rancho Cucamonga
+Redding
+Redlands
+Rialto
+Riverside
+Sacramento
+Salinas
+San Bernardino
+San Diego
+San Francisco
+San José
+San Juan Capistrano
+San Luis Obispo
+San Mateo
+São Rafael
+Santa Ana
+Santa Bárbara
+Santa Cruz
+Santa Mônica
+Simi Valley
+Stockton
+Thousand Oaks
+Tustin
+Sonoma
+Vallejo
+Visalia
+West Covina
+Whittier
+Asheville
+Burlington
+Cary
+Chapel Hill
+Charlotte
+Concord
+Durham
+Elizabeth City
+Fayetteville
+Gastonia
+Greensboro
+Greenville
+Hickory
+High Point
+Jacksonville
+New Bern
+Raleigh
+Rocky Mount
+Wilmington
+Winston-Salem
+Anderson
+Charleston
+Clemson
+Columbia
+Darlington
+Florence
+Greenville
+Myrtle Beach
+Orangeburg
+Spartanburg
+Acres Green
+Aspen
+Aurora
+Boulder
+Centennial
+Colorado Springs
+Denver
+Durango
+Fort Collins
+Grand Junction
+Lakewood
+Littleton
+Pueblo
+Vail
+Bridgeport
+Greenwich
+Hartford
+Middletown
+New Britain
+New Haven
+New London
+Norwich
+Stamford
+Storrs
+Bismarck
+Dickinson
+Fargo
+Grand Forks
+Jamestown
+Mandan
+Minot
+Williston
+Aberdeen
+Deadwood
+Pierre
+Rapid City
+Sioux Falls
+Sturgis
+Vermillion
+Watertown
+Dover
+Elsmere
+Georgetown
+Milford
+Newark
+New Castle
+Rehoboth Beach
+Seaford
+Wilmington
+Boca Raton
+Bradenton
+Brandon
+Cape Coral
+Clearwater
+Coral Gables
+Coral Springs
+Daytona Beach
+Delray Beach
+Deltona
+Fort Lauderdale
+Fort Myers
+Gainesville
+Hialeah
+Hollywood
+Jacksonville
+Kendall
+Key West
+Kissimmee
+Lakeland
+Melbourne
+Miami
+Miami Beach
+Miami Gardens
+North Miami
+Ocala
+Orlando
+Palm Beach
+Panama City
+Pembroke Pines
+Pensacola
+Plantation
+Pompano Beach
+Port St. Lucie
+Port Charlotte
+Saint Augustine
+São Petersburgo
+Sarasota
+Sunrise
+Tallahassee
+Tampa
+West Palm Beach
+Alpharetta
+Athens
+Atlanta
+Augusta
+Brunswick
+Columbus
+Dalton
+Gainesville
+Kennesaw
+LaGrange
+Macon
+Marietta
+Rome
+Roswell
+Sandy Springs
+Savannah
+Statesboro
+Thomasville
+Valdosta
+Warner Robins
+Waycross
+Hilo
+Honolulu
+Kailua
+Kailua-Kona
+Lahaina
+Lihue
+Pearl City
+Schofield Barracks
+Wahiawa
+Waipahu
+Boise
+Coeur d'Alene
+Idaho Falls
+Lewiston
+Moscow
+Nampa
+Pocatello
+Sandpoint
+Sun Valley
+Twin Falls
+Aurora
+Belleville
+Bloomington
+Cairo
+Calumet City
+Carbondale
+Champaign
+Charleston
+Chicago
+Chicago Heights
+Cicero
+Danville
+Decatur
+DeKalb
+East St. Louis
+Evanston
+Farmer City
+Galesburg
+Highland Park
+Joliet
+Kankakee
+Macomb
+Moline
+Naperville
+Normal
+North Chicago
+Peoria
+Quincy
+Rock Island
+Rockford
+Springfield
+Urbana
+Waukegan
+Wheaton
+Bloomington
+Elkhart
+Evansville
+Fort Wayne
+Gary
+Hammond
+Indianápolis
+Kokomo
+Lafayette
+Muncie
+South Bend
+Terre Haute
+Valparaiso
+Vincennes
+West Lafayette
+Ames
+Cedar Falls
+Cedar Rapids
+Council Bluffs
+Davenport
+Des Moines
+Dubuque
+Fort Dodge
+Iowa City
+Mason City
+Sioux City
+Waterloo
+Abilene
+Dodge City
+Hutchinson
+Kansas City
+Lawrence
+Liberal
+Manhattan
+Overland Park
+Topeka
+Wichita
+Bowling Green
+Covington
+Danville
+Florence
+Frankfort
+Hopkinsville
+Jeffersontown
+Lexington
+Louisville
+Murray
+Owensboro
+Paducah
+Richmond
+Bay St. Louis
+Biloxi
+Columbus
+Corinth
+Greenville
+Gulfport
+Hattiesburg
+Jackson
+Laurel
+Meridian
+Natchez
+Oxford
+Pascagoula
+Pass Christian
+Starkville
+Tupelo
+Vicksburg
+Yazoo
+Boulder City
+Carson City
+Elko
+Fallon
+Fernley
+Henderson
+Las Vegas
+Laughlin
+North Las Vegas
+Pahrump
+Reno
+Winnemucca
+Albany
+Binghamton
+Buffalo
+Cooperstown
+Elmira
+Glens Falls
+Ithaca
+Lockport
+Long Island
+Manhattan
+Mount Vernon
+Nova Iorque
+Newburgh
+New Rochelle
+Niagara Falls
+Oneonta
+Peekskill
+Poughkeepsie
+Rochester
+Schenectady
+Syracuse
+Utica
+Watertown
+West Point
+White Plains
+Yonkers
+Abilene
+Amarillo
+Arlington
+Austin
+Baytown
+Beaumont
+Brownsville
+College Station
+Corpus Christi
+Dallas
+Del Rio
+Denton
+El Paso
+Fort Worth
+Galveston
+Houston
+Laredo
+Longview
+Lubbock
+Lufkin
+McAllen
+Marshall
+Midland
+Nacogdoches
+Odessa
+Plano
+Port Arthur
+San Antonio
+Sugar Land
+Tyler
+Waco
+Wichita Falls
+Alexandria
+Blacksburg
+Bristol
+Charlottesville
+Chesapeake
+Fairfax
+Fredericksburg
+Hampton
+Lexington
+Lynchburg
+Manassas
+Newport News
+Norfolk
+Radford
+Richmond
+Roanoke
+Staunton
+Suffolk
+Tysons Corner
+Virginia Beach
+Williamsburg
+Aberdeen
+Bellingham
+Bremerton
+Kennewick
+Olympia
+Pasco
+Pullman
+Richland
+Seattle
+Spokane
+Spokane Valley
+Tacoma
+Walla Walla
+Yakima
+ppleton
+Beloit
+Eau Claire
+Fond du Lac
+Green Bay
+Janesville
+Kenosha
+La Crosse
+Madison
+Manitowoc
+Marshfield
+Milwaukee
+Oshkosh
+Racine
+Sheboygan
+Stevens Point
+Superior
+Wausau
+West Bend
+Wisconsin Rapids
+Charlotte Amalie
+Saint John
+Saint Thomas
+Saint Croix
+Hokkaido
+Aomori
+Iwate
+Miyagi
+Akita
+Yamagata
+Fukushima
+Ibaraki
+Tochigi
+Gunma
+Saitama
+Chiba
+Tóquio
+Kanagawa
+Niigata
+Toyama
+Ishikawa
+Fukui
+Yamanashi
+Nagano
+Gifu
+Shizuoka
+Aichi
+Mie
+Shiga
+Kyoto
+Osaka
+Hyogo
+Nara
+Wakayama
+Tottori
+Shimane
+Okayama
+Hiroshima
+Yamaguchi
+Tokushima
+Kagawa
+Ehime
+Kochi
+Fukuoka
+Saga
+Nagasaki
+Kumamoto
+Oita
+Miyazaki
+Kagoshima
+Okinawa
+Álava
+Albacete
+Alicante
+Almería
+Astúrias
+Ávila
+Badajoz
+Biscaia
+Ilhas Baleares
+Barcelona
+Burgos
+Cáceres
+Cádiz
+Castellón
+Ciudad Real
+Córdova
+Corunha
+Cuenca
+Girona
+Granada
+Guadalajara
+Guipúscoa
+Huelva
+Huesca
+Jaén
+Las Palmas
+León
+Lérida
+Lugo
+Madrid
+Málaga
+Múrcia
+Navarra
+Ourense
+Palência
+Pontevedra
+La Rioja
+Salamanca
+Santa Cruz de Tenerife
+Segóvia
+Sevilha
+Sória
+Tarragona
+Teruel
+Toledo
+Valência
+Valladolid
+Zamora
+Zaragoza
